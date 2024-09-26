@@ -1,3 +1,3 @@
 #!/bin/bash
 echo " this is my new file"
-mkdir file_{1..5}
+mkdir aaa_{1..5}
